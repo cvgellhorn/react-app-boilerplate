@@ -1,1 +1,1 @@
-# react app boilerplate with tailwindcss and other goodies
+# Simple react app boilerplate with tailwindcss
