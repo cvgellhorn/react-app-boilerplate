@@ -1,8 +1,12 @@
+import { RecoilRoot } from 'recoil';
+
 const App = () => {
   return (
-    <div className="app">
-      <span>react app boilerplate</span>
-    </div>
+    <RecoilRoot>
+      <div className="app">
+        <span>react app boilerplate</span>
+      </div>
+    </RecoilRoot>
   );
 };
 
