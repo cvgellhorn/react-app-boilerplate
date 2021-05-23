@@ -1,6 +1,6 @@
 # Simple React App Boilerplate
 
-## Including Following Packages
+## Packages Included
 
 ### Production
 
