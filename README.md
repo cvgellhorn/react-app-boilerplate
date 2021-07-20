@@ -5,7 +5,6 @@
 ### Production
 
 - React
-- Recoil
 - TailwindCSS
 
 ### Development
