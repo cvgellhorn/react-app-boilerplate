@@ -1,6 +1,6 @@
 const App = () => {
   return (
-    <div className="app">
+    <div className="app font-medium">
       <span>react app boilerplate</span>
     </div>
   );
